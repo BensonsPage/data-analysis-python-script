@@ -9,7 +9,8 @@ run python package # Windows
 
 python3 -m pip install
 
-# Create the Virtual Environment (https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments)
+# Create the Virtual Environment
+https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments
 
 python3 -m venv venv
 
