@@ -9,6 +9,9 @@ run python package # Windows
 
 python3 -m pip install
 
+git clone https://github.com/BensonsPage/data-analysis-python-script
+cd data-analysis-python-script
+
 # Create the Virtual Environment
 https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments
 
